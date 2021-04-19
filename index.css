@@ -13,12 +13,12 @@ body {
 }
 
 a {
-	color: #0bc;
+	color: rgb(102, 128, 185);
 	text-decoration: none;
 }
 
 #a {
-	color: #0f0;
+	color: rgb(143, 143, 143);
 }
 
 #c {
